@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jaeyeon Yang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Energy Engineering @ KENTECH , Currently UC Berkeley Visiting Researcher | Simulation, AI, and Sustainability"
+  bio    : "Energy Engineering @ KENTECH"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
