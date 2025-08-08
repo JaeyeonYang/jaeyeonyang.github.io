@@ -1,8 +1,8 @@
 ---
-title: "First Post: Hello World!"
-date: 2025-08-08
+title: "First Post"
+date: 2025-08-18T15:34:30-04:00
 categories:
-  - journal
+  - Blog
 tags:
   - introduction
   - research
