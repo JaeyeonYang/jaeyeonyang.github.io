@@ -139,39 +139,53 @@ body {
 
 /* About 페이지 특별 스타일 */
 .about .page__content {
-  font-size: 1.1em !important;
+  font-size: 1.2em !important;
 }
 
 .about .page__content h1 {
-  font-size: 1.6em !important;
+  font-size: 1.7em !important;
 }
 
 .about .page__content h2 {
-  font-size: 1.5em !important;
+  font-size: 1.6em !important;
 }
 
 .about .page__content h3 {
-  font-size: 1.4em !important;
+  font-size: 1.5em !important;
 }
 
 .about .page__content h4 {
-  font-size: 1.3em !important;
+  font-size: 1.4em !important;
 }
 
 .about .page__content p {
-  font-size: 1.1em !important;
+  font-size: 1.2em !important;
   line-height: 1.6 !important;
 }
 
 .about .page__content li {
-  font-size: 1.1em !important;
+  font-size: 1.2em !important;
 }
 
 /* About 페이지 연구 내용 특별 스타일 */
 .about .page__content ul li {
-  font-size: 1.15em !important;
-  line-height: 1.7 !important;
-  margin-bottom: 0.5em !important;
+  font-size: 1.3em !important;
+  line-height: 1.8 !important;
+  margin-bottom: 0.8em !important;
+}
+
+/* About 페이지 연구 경험 섹션 특별 스타일 */
+.about .page__content h3 + ul li {
+  font-size: 1.35em !important;
+  line-height: 1.9 !important;
+  margin-bottom: 1em !important;
+}
+
+/* About 페이지 연구 설명 텍스트 특별 스타일 */
+.about .page__content ul li:not(:first-child) {
+  font-size: 1.4em !important;
+  line-height: 2.0 !important;
+  margin-bottom: 1.2em !important;
 }
 
 /* 메인 페이지 본문 글씨 더 작게 */
