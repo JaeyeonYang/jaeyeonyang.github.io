@@ -10,11 +10,8 @@ tags:
   - molecular-simulations
 ---
 
-안녕하세요! 제 연구 블로그에 오신 것을 환영합니다. 
+Hello world ! 
 
-## About This Blog
-
-이 블로그는 제가 에너지 공학 분야에서 진행하는 연구와 학습 내용을 공유하고자 합니다. 
 
 ### Research Interests
 
