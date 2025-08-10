@@ -114,26 +114,42 @@ body {
 
 /* 포스트 페이지 태그와 카테고리 글씨 크기 축소 */
 .single .page__meta {
-  font-size: 0.65em !important;
+  font-size: 0.55em !important;
 }
 
 .single .page__meta .tag {
-  font-size: 0.65em !important;
+  font-size: 0.55em !important;
 }
 
 .single .page__meta .category {
-  font-size: 0.65em !important;
+  font-size: 0.55em !important;
 }
 
 /* 포스트 페이지 태그와 카테고리 링크 스타일 */
 .single .page__meta a {
-  font-size: 0.65em !important;
+  font-size: 0.55em !important;
   color: #666 !important;
 }
 
 .single .page__meta .tag a,
 .single .page__meta .category a {
-  font-size: 0.65em !important;
+  font-size: 0.55em !important;
+  color: #666 !important;
+}
+
+/* 포스트 페이지 태그와 카테고리 텍스트 스타일 */
+.single .page__meta .tag,
+.single .page__meta .category,
+.single .page__meta .tags,
+.single .page__meta .categories {
+  font-size: 0.55em !important;
+  color: #666 !important;
+}
+
+/* 포스트 페이지 태그와 카테고리 라벨 스타일 */
+.single .page__meta .tag-label,
+.single .page__meta .category-label {
+  font-size: 0.55em !important;
   color: #666 !important;
 }
 
