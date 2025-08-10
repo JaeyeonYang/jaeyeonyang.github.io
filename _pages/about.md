@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+last_modified_at: 2025-08-10
 ---
 
 Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy engineering field.
@@ -94,7 +95,7 @@ Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy enginee
 ## Leadership & Outreach
 
 ### Current Positions
-- **Founder, Academic Support Division, KENTECH Student Ambassadors** (June 2023 – Present)
+- **Founder, Academic Support Division, KENTECH Student Ambassadors** (June 2023 – July 2025)
 - **Education Innovation Panel, KENTECH** (Oct 2022 – Dec 2023)
 
 ### Selected Experiences
@@ -144,7 +145,7 @@ Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy enginee
 
 ## Contact & Collaboration
 
-Feel free to reach out for research discussions or collaboration opportunities!
+Feel free to reach out for research discussions!
 
 - **Email**: jannn@kentech.ac.kr
 - **LinkedIn**: [Jaeyeon Yang](https://www.linkedin.com/in/jynyang)
@@ -158,3 +159,5 @@ Feel free to reach out for research discussions or collaboration opportunities!
 ---
 
 *This blog serves as a space to share my research process and results. I aim to share the latest trends and research achievements in energy engineering and molecular simulation fields.*
+
+---
