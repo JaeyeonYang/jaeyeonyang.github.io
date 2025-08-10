@@ -32,21 +32,16 @@
 
 /* 사이드바 글씨 크기 조정 */
 .sidebar {
-  font-size: 0.75em !important;
+  font-size: 0.85em !important;
 }
 
 .sidebar .sidebar__right {
-  font-size: 0.75em !important;
+  font-size: 0.85em !important;
 }
 
 /* 네비게이션 글씨 크기 조정 */
 .masthead .greedy-nav {
-  font-size: 0.85em !important;
-}
-
-/* 전체적인 글씨 크기 조정 */
-body {
-  font-size: 0.8em !important;
+  font-size: 0.9em !important;
 }
 
 /* 포스트 제목 글씨 크기 조정 */
@@ -56,34 +51,37 @@ body {
 
 /* 포스트 메타 정보 글씨 크기 조정 */
 .page__meta {
-  font-size: 0.7em !important;
-}
-
-/* 메인 페이지 포스트 목록 글씨 크기 조정 */
-.archive__item-title {
-  font-size: 1.0em !important;
-}
-
-.archive__item-excerpt {
-  font-size: 0.75em !important;
-}
-
-/* 메인 페이지 전체 글씨 크기 조정 */
-.home .page__content {
   font-size: 0.8em !important;
 }
 
-/* 포스트 목록 제목 크기 조정 */
+/* 메인 페이지 포스트 목록 제목만 작게 조정 */
+.archive__item-title {
+  font-size: 0.9em !important;
+}
+
 .archive__item-title a {
-  font-size: 1.0em !important;
+  font-size: 0.9em !important;
 }
 
-/* 포스트 목록 날짜 크기 조정 */
+/* 메인 페이지 다른 요소들은 원래 크기 유지 */
+.archive__item-excerpt {
+  font-size: 0.9em !important;
+}
+
 .archive__item-date {
-  font-size: 0.7em !important;
+  font-size: 0.8em !important;
 }
 
-/* 포스트 목록 카테고리/태그 크기 조정 */
 .archive__item-category, .archive__item-tags {
-  font-size: 0.7em !important;
+  font-size: 0.8em !important;
+}
+
+/* 메인 페이지 전체 글씨 크기는 원래대로 */
+.home .page__content {
+  font-size: 1em !important;
+}
+
+/* 전체 body 글씨 크기도 원래대로 */
+body {
+  font-size: 1em !important;
 } 
