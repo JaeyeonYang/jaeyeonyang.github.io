@@ -63,17 +63,18 @@
   font-size: 0.85em !important;
 }
 
-/* 메인 페이지 다른 요소들은 살짝 키우기 */
-.archive__item-excerpt {
-  font-size: 0.95em !important;
-}
-
+/* 메인 페이지 메타 정보 글씨 크기 대폭 축소 */
 .archive__item-date {
-  font-size: 0.85em !important;
+  font-size: 0.7em !important;
 }
 
 .archive__item-category, .archive__item-tags {
-  font-size: 0.85em !important;
+  font-size: 0.7em !important;
+}
+
+/* 메인 페이지 본문 글씨 크기 대폭 축소 */
+.archive__item-excerpt {
+  font-size: 0.7em !important;
 }
 
 /* 메인 페이지 전체 글씨 크기는 살짝 키우기 */
@@ -150,9 +151,20 @@ body {
 
 /* 메인 페이지 본문 글씨 더 작게 */
 .home .archive__item-excerpt {
-  font-size: 0.8em !important;
+  font-size: 0.65em !important;
 }
 
 .home .page__content p {
   font-size: 0.8em !important;
+}
+
+/* 메인 페이지 메타 정보 추가 스타일 */
+.home .archive__item-date {
+  font-size: 0.65em !important;
+  color: #666 !important;
+}
+
+.home .archive__item-category, .home .archive__item-tags {
+  font-size: 0.65em !important;
+  color: #666 !important;
 } 
