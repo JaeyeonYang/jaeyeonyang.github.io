@@ -112,39 +112,64 @@ body {
   font-size: 0.7em !important;
 }
 
+/* 포스트 페이지 태그와 카테고리 글씨 크기 축소 */
+.single .page__meta {
+  font-size: 0.65em !important;
+}
+
+.single .page__meta .tag {
+  font-size: 0.65em !important;
+}
+
+.single .page__meta .category {
+  font-size: 0.65em !important;
+}
+
+/* 포스트 페이지 태그와 카테고리 링크 스타일 */
+.single .page__meta a {
+  font-size: 0.65em !important;
+  color: #666 !important;
+}
+
+.single .page__meta .tag a,
+.single .page__meta .category a {
+  font-size: 0.65em !important;
+  color: #666 !important;
+}
+
 /* About 페이지 특별 스타일 */
 .about .page__content {
-  font-size: 0.9em !important;
-}
-
-.about .page__content h1 {
-  font-size: 1.4em !important;
-}
-
-.about .page__content h2 {
-  font-size: 1.3em !important;
-}
-
-.about .page__content h3 {
-  font-size: 1.2em !important;
-}
-
-.about .page__content h4 {
   font-size: 1.1em !important;
 }
 
+.about .page__content h1 {
+  font-size: 1.6em !important;
+}
+
+.about .page__content h2 {
+  font-size: 1.5em !important;
+}
+
+.about .page__content h3 {
+  font-size: 1.4em !important;
+}
+
+.about .page__content h4 {
+  font-size: 1.3em !important;
+}
+
 .about .page__content p {
-  font-size: 0.9em !important;
+  font-size: 1.1em !important;
   line-height: 1.6 !important;
 }
 
 .about .page__content li {
-  font-size: 0.9em !important;
+  font-size: 1.1em !important;
 }
 
 /* About 페이지 연구 내용 특별 스타일 */
 .about .page__content ul li {
-  font-size: 0.95em !important;
+  font-size: 1.15em !important;
   line-height: 1.7 !important;
   margin-bottom: 0.5em !important;
 }
