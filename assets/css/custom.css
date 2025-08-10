@@ -10,11 +10,11 @@
 }
 
 .page__content h2 {
-  font-size: 1.1em !important;
+  font-size: 1.0em !important;
 }
 
 .page__content h3 {
-  font-size: 1.0em !important;
+  font-size: 1.2em !important;
 }
 
 .page__content h4, .page__content h5, .page__content h6 {
@@ -83,7 +83,7 @@
 
 /* 전체 body 글씨 크기도 살짝 키우기 */
 body {
-  font-size: 1.05em !important;
+  font-size: 1.00em !important;
 }
 
 /* 포스트 페이지에서만 글씨 크기 더 작게 */
