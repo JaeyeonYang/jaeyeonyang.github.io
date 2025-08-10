@@ -103,13 +103,10 @@ author:
   name: "Jaeyeon Yang" # 블로그 닉네임
   avatar: "/assets/images/photo.png" # 블로그 프로필 사진
   bio: "Energy Engineering @ KENTECH"
-  location: "Korea"
+  location: "CA, USA"
   email: "jaeyang@berkeley.edu"
 
   links: # 사이트 링크
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jaeyang@berkeley.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jynyang"
