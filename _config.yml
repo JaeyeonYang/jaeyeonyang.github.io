@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jaeyeon Yang"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/photo.png"
   bio    : "Energy Engineering @ KENTECH"
   links:
     - label: "LinkedIn"
