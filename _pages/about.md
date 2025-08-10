@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-last_modified_at: 2025-08-10
 ---
 
 Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy engineering field.
