@@ -149,11 +149,6 @@ Feel free to reach out for research discussions!
 - **LinkedIn**: [Jaeyeon Yang](https://www.linkedin.com/in/jynyang)
 - **GitHub**: [JaeyeonYang](https://github.com/JaeyeonYang)
 
-### Research Collaboration
-- **Academic Collaboration**: Collaborative research with universities and research institutions
-- **Industry Partnership**: Technology transfer and commercialization with industry
-- **International Research**: International joint research projects
-
 ---
 
 *This blog serves as a space to share my research process and results. I aim to share the latest trends and research achievements in energy engineering and molecular simulation fields.*
