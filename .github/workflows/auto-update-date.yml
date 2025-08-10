@@ -1,0 +1,41 @@
+name: Auto Update Last Modified Date
+
+on:
+  push:
+    paths:
+      - '_pages/about.md'
+    branches:
+      - main
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Update last_modified_at date
+      run: |
+        # Get current date in YYYY-MM-DD format
+        CURRENT_DATE=$(date +%Y-%m-%d)
+        
+        # Update the last_modified_at field in about.md
+        sed -i "s/last_modified_at: .*/last_modified_at: $CURRENT_DATE/" _pages/about.md
+        
+        # Check if file was modified
+        if git diff --quiet _pages/about.md; then
+          echo "No changes needed"
+        else
+          echo "Updated last_modified_at to $CURRENT_DATE"
+        fi
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add _pages/about.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update last_modified_at date"
+        git push 

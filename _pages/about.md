@@ -22,7 +22,7 @@ Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy enginee
 - **Location**: Cambridge, MA
 - **Coursework**: [Organic Chemistry](assets/papers/organic-chemistry-paper.pdf), Environmental Science
 
-### [Hana Academy Seoul] (https://eng.hana.hs.kr/main.do)
+### [Hana Academy Seoul](https://eng.hana.hs.kr/main.do)
 - **Advanced Physics and Chemistry Focus** (Mar 2019 - Jan 2022)
 - **Location**: Seoul, Korea
 
@@ -159,5 +159,9 @@ Feel free to reach out for research discussions!
 ---
 
 *This blog serves as a space to share my research process and results. I aim to share the latest trends and research achievements in energy engineering and molecular simulation fields.*
+
+---
+
+**Last Updated**: August 10, 2025
 
 ---
