@@ -2,32 +2,32 @@
 
 /* 포스트 본문 글씨 크기 축소 */
 .page__content {
-  font-size: 0.8em !important;
+  font-size: 0.75em !important;
 }
 
 .page__content h1 {
-  font-size: 1.3em !important;
-}
-
-.page__content h2 {
   font-size: 1.2em !important;
 }
 
-.page__content h3 {
+.page__content h2 {
   font-size: 1.1em !important;
 }
 
-.page__content h4, .page__content h5, .page__content h6 {
+.page__content h3 {
   font-size: 1.0em !important;
 }
 
+.page__content h4, .page__content h5, .page__content h6 {
+  font-size: 0.9em !important;
+}
+
 .page__content p {
-  font-size: 0.8em !important;
+  font-size: 0.75em !important;
   line-height: 1.5 !important;
 }
 
 .page__content li {
-  font-size: 0.8em !important;
+  font-size: 0.75em !important;
 }
 
 /* 사이드바 글씨 크기 조정 */
@@ -46,21 +46,21 @@
 
 /* 포스트 제목 글씨 크기 조정 */
 .page__title {
-  font-size: 1.4em !important;
+  font-size: 1.3em !important;
 }
 
 /* 포스트 메타 정보 글씨 크기 조정 */
 .page__meta {
-  font-size: 0.8em !important;
+  font-size: 0.75em !important;
 }
 
 /* 메인 페이지 포스트 목록 제목만 작게 조정 */
 .archive__item-title {
-  font-size: 0.9em !important;
+  font-size: 0.85em !important;
 }
 
 .archive__item-title a {
-  font-size: 0.9em !important;
+  font-size: 0.85em !important;
 }
 
 /* 메인 페이지 다른 요소들은 원래 크기 유지 */
@@ -84,4 +84,29 @@
 /* 전체 body 글씨 크기도 원래대로 */
 body {
   font-size: 1em !important;
+}
+
+/* 포스트 페이지에서만 글씨 크기 더 작게 */
+.single .page__content {
+  font-size: 0.7em !important;
+}
+
+.single .page__content h1 {
+  font-size: 1.1em !important;
+}
+
+.single .page__content h2 {
+  font-size: 1.0em !important;
+}
+
+.single .page__content h3 {
+  font-size: 0.9em !important;
+}
+
+.single .page__content p {
+  font-size: 0.7em !important;
+}
+
+.single .page__content li {
+  font-size: 0.7em !important;
 } 
