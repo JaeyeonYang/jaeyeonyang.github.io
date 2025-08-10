@@ -8,4 +8,4 @@ tags:
   - research
 ---
 
-This is my first post on this blog. I’ll be sharing updates on my work in molecular simulations and sustainable energy research.
+This is my first post on this blog!
