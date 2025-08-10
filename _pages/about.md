@@ -131,16 +131,15 @@ Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy enginee
 ## Skills & Tools
 
 ### Programming & Software
-- **Python**: NumPy, Pandas, SciPy, Matplotlib
+- **Python** : Data processing, scientific computing, visualization, automation, parallel computing
 - **Julia**: Mathematical modeling and optimization
-- **Molecular Simulation**: ReaxFF, LAMMPS, GROMACS
-- **Data Analysis**: Jupyter Notebook, Statistical analysis
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
+- **Molecular Simulation**: LAMMPS, GROMACS (MD & MC simulations)
+- **Data Analysis**
+- **Machine Learning**: predictive modeling, feature engineering, model interpretability
 
 ### Research Tools
-- **High Performance Computing**: Experience with supercomputers
-- **Visualization**: VMD, PyMOL, ParaView
-- **Statistical Analysis**: Origin, GraphPad Prism
+- **HPC**: Parallel computing, SLURM/PBS job scheduling, performance optimization
+- **Visualization**: VMD, OVITO, VESTA, AVOGADRO
 
 ## Contact & Collaboration
 
