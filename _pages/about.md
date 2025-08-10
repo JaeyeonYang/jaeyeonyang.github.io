@@ -7,22 +7,21 @@ Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy enginee
 
 ## Contact Information
 - **Address**: 21, Kentech-gil, Naju-si, Jeollanam-do, Republic of Korea
-- **Phone**: (+82)-10-3372-5834
-- **Email**: jannn@kentech.ac.kr
+- **Email**: jannn@kentech.ac.kr 
 - **LinkedIn**: [Jaeyeon Yang](https://www.linkedin.com/in/jynyang)
 
 ## Education
 
-### Korea Institute of Energy Technology (KENTECH)
+### [Korea Institute of Energy Technology (KENTECH)](https://www.kentech.ac.kr/main.do)
 - **B.S. in Energy Engineering** (Feb 2022 - 2026)
 - **Location**: Naju, Korea
 
 ### Harvard University
 - **International Visiting Student** (June - Aug 2022)
 - **Location**: Cambridge, MA
-- **Coursework**: Organic Chemistry, Environmental Science
+- **Coursework**: [Organic Chemistry](assets/papers/organic-chemistry-paper.pdf), Environmental Science
 
-### Hana Academy Seoul
+### [Hana Academy Seoul] (https://eng.hana.hs.kr/main.do)
 - **Advanced Physics and Chemistry Focus** (Mar 2019 - Jan 2022)
 - **Location**: Seoul, Korea
 
@@ -67,7 +66,7 @@ Hello! I'm Jaeyeon Yang, currently an undergraduate researcher in energy enginee
 ## Presentations
 
 ### Conference Presentations
-- **Bang, M., Yang, J., & Kim, J.** (2023, October). "Review of Flexibility Assessment and Provision Strategies for Renewable Energy-Based Power Systems." Proceedings of the KIEE Annual Power Technology Conference and General Meeting, Vol. 335-336, p. 2.
+- **Bang, M., Yang, J., & Kim, J.** (2023, October). "Review of Flexibility Assessment and Provision Strategies for Renewable Energy-Based Power Systems." Proceedings of the KIEE Annual Power Technology Conference and General Meeting, Vol. 335-336, p. 2. 
 
 ## Honors & Awards
 
