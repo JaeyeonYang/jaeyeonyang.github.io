@@ -2,68 +2,88 @@
 
 /* 포스트 본문 글씨 크기 축소 */
 .page__content {
-  font-size: 0.9em !important;
+  font-size: 0.8em !important;
 }
 
 .page__content h1 {
-  font-size: 1.4em !important;
-}
-
-.page__content h2 {
   font-size: 1.3em !important;
 }
 
-.page__content h3 {
+.page__content h2 {
   font-size: 1.2em !important;
 }
 
-.page__content h4, .page__content h5, .page__content h6 {
+.page__content h3 {
   font-size: 1.1em !important;
 }
 
+.page__content h4, .page__content h5, .page__content h6 {
+  font-size: 1.0em !important;
+}
+
 .page__content p {
-  font-size: 0.9em !important;
-  line-height: 1.6 !important;
+  font-size: 0.8em !important;
+  line-height: 1.5 !important;
 }
 
 .page__content li {
-  font-size: 0.9em !important;
+  font-size: 0.8em !important;
 }
 
 /* 사이드바 글씨 크기 조정 */
 .sidebar {
-  font-size: 0.85em !important;
+  font-size: 0.75em !important;
 }
 
 .sidebar .sidebar__right {
-  font-size: 0.85em !important;
+  font-size: 0.75em !important;
 }
 
 /* 네비게이션 글씨 크기 조정 */
 .masthead .greedy-nav {
-  font-size: 0.9em !important;
+  font-size: 0.85em !important;
 }
 
 /* 전체적인 글씨 크기 조정 */
 body {
-  font-size: 0.9em !important;
+  font-size: 0.8em !important;
 }
 
 /* 포스트 제목 글씨 크기 조정 */
 .page__title {
-  font-size: 1.5em !important;
+  font-size: 1.4em !important;
 }
 
 /* 포스트 메타 정보 글씨 크기 조정 */
 .page__meta {
-  font-size: 0.8em !important;
+  font-size: 0.7em !important;
 }
 
 /* 메인 페이지 포스트 목록 글씨 크기 조정 */
 .archive__item-title {
-  font-size: 1.1em !important;
+  font-size: 1.0em !important;
 }
 
 .archive__item-excerpt {
-  font-size: 0.85em !important;
+  font-size: 0.75em !important;
+}
+
+/* 메인 페이지 전체 글씨 크기 조정 */
+.home .page__content {
+  font-size: 0.8em !important;
+}
+
+/* 포스트 목록 제목 크기 조정 */
+.archive__item-title a {
+  font-size: 1.0em !important;
+}
+
+/* 포스트 목록 날짜 크기 조정 */
+.archive__item-date {
+  font-size: 0.7em !important;
+}
+
+/* 포스트 목록 카테고리/태그 크기 조정 */
+.archive__item-category, .archive__item-tags {
+  font-size: 0.7em !important;
 } 
