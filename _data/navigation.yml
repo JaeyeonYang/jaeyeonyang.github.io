@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -7,3 +9,14 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+# Categories navigation for sidebar
+categories:
+  - title: "Research"
+    url: /categories/#research
+  - title: "Energy Engineering"
+    url: /categories/#energy-engineering
+  - title: "Molecular Simulations"
+    url: /categories/#molecular-simulations
+  - title: "Blog"
+    url: /categories/#blog
